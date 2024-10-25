@@ -18,7 +18,7 @@ python main.py
 **COMPONENTS**
 
 1. Backend :  main.py (Flask Python SQLAlchemy)
-2. Frontend : rlg.py (Tkinter UI Python)
+2. Frontend : gui.py (Tkinter UI Python)
 3. Automated test script : test.py (Automatically test the app) (requests)
 
 
